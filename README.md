@@ -1,4 +1,6 @@
-<img align="right" src="https://avatars.githubusercontent.com/u/243905907?u=fdd173a09cec22551eedb17c687547939b2d4b92&v=4" width="132" alt="JesusCr" />
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/hero?username=jesusftc&theme=zen&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F243905907%3Fu%3Dfdd173a09cec22551eedb17c687547939b2d4b92%26v%3D4" alt="jesusftc hero visual" />
+</p>
 
 ### Hi, I'm JesusCr.
 
