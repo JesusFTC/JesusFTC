@@ -6,7 +6,7 @@
 
 <em>Creator of simple, utility-focused projects</em>
 
-[Website](https://github.com/jesusftc) · [GitHub](https://github.com/jesusftc) · [X](https://x.com/your-handle)
+[Website](https://github.com/jesusftc) · [GitHub](https://github.com/jesusftc) · [X](https://x.com/nixcoded)
 
 <img src="https://img.shields.io/github/followers/jesusftc?style=flat&label=followers&labelColor=545454&color=313131" alt="followers" /> <img src="https://img.shields.io/github/stars/jesusftc?style=flat&label=stars&labelColor=545454&color=313131" alt="stars" /> <img src="https://img.shields.io/badge/status-open_to_work-313131?style=flat&labelColor=545454" alt="open to work" />
 
