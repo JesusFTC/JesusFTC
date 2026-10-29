@@ -10,14 +10,4 @@
 
 <img src="https://img.shields.io/github/followers/jesusftc?style=flat&label=followers&labelColor=545454&color=313131" alt="followers" /> <img src="https://img.shields.io/github/stars/jesusftc?style=flat&label=stars&labelColor=545454&color=313131" alt="stars" /> <img src="https://img.shields.io/badge/status-open_to_work-313131?style=flat&labelColor=545454" alt="open to work" />
 
-<br clear="right" />
-
-#### Stack
-
-<details>
-<summary><b>Activity this year</b></summary>
-<br />
-<img src="https://www.gitskins.com/api/section/heatmap?username=jesusftc&theme=github-dark&mode=light" width="100%" alt="Contributions in the last year" />
-</details>
-
 <img align="center" src="https://github.com/JesusFTC/JesusFTC/blob/main/gif.gif" />
