@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://www.gitskins.com/api/section/hero?username=jesusftc&theme=zen&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F243905907%3Fu%3Dfdd173a09cec22551eedb17c687547939b2d4b92%26v%3D4" alt="jesusftc hero visual" />
+<img src="https://www.gitskins.com/api/section/wordmark?username=jesusftc&theme=dracula&style=aura&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F243905907%3Fu%3Dfdd173a09cec22551eedb17c687547939b2d4b92%26v%3D4&v=showcase-wordmark-2" alt="JesusCr wordmark visual" />
 </p>
 
 ### Hi, I'm JesusCr.
